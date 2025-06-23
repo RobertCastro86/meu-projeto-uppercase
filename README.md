@@ -20,3 +20,11 @@ Botão interativo que, ao ser clicado, exibe uma **mensagem com a própria label
 - React (JSX)
 - Vite
 - CSS
+
+## 📌 Considerações Finais
+
+Este projeto representa um ótimo ponto de partida para quem está iniciando no ecossistema React. Através dos desafios propostos, foi possível trabalhar conceitos importantes como **componentização**, **manipulação de eventos** e **estilização**.
+
+Os componentes `Uppercase` e `Button` demonstram como é possível criar interfaces dinâmicas e reutilizáveis de forma simples e eficiente.
+
+Sinta-se à vontade para clonar, testar e expandir este projeto — melhorias e novas ideias são sempre bem-vindas! 🚀
