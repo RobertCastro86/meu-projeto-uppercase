@@ -1,12 +1,22 @@
-# React + Vite
+# Projeto React + Vite – Componentes Básicos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi desenvolvido como parte de uma série de desafios introdutórios do curso DevQuest DevemDobro do modulo React Básico, utilizando React com o bundler Vite, com foco em componentização, interatividade e boas práticas no front-end.
 
-Currently, two official plugins are available:
+## 🚀 Desafios Desenvolvidos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Desafio 1 – Componente Uppercase
+Componente que recebe um texto como entrada e o exibe em letras **maiúsculas**, com uma estilização personalizada.
 
-## Expanding the ESLint configuration
+### Desafio 2 – Componente Button
+Botão interativo que, ao ser clicado, exibe uma **mensagem com a própria label** do botão.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧩 Componentes Criados
+
+- `Uppercase.jsx` – Responsável pela transformação do texto para maiúsculo;
+- `Button.jsx` – Renderiza o botão e lida com o evento de clique para exibir a mensagem.
+
+## 🛠️ Tecnologias Utilizadas
+
+- React (JSX)
+- Vite
+- CSS
